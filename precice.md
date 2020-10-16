@@ -6,8 +6,8 @@ description: Cesto koriscene precice
 
 | Komanda | Opis | Prikaz |
 | :--- | :--- | :--- |
-| Ctrl + Space | Selektuj kolonu |  |
+| Ctrl + Space | Selektuj kolonu | ![](.gitbook/assets/rec1.gif) |
 |  |  |  |
 
-![](.gitbook/assets/rec1.gif)
+
 
