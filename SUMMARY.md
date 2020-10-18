@@ -3,9 +3,8 @@
 * [Initial page](README.md)
 * [Formule](formule.md)
 
-## Precice <a id="precice-1"></a>
+## Tastatura <a id="precice-1"></a>
 
-* [Tastatura](precice-1/tastatura/README.md)
-  * [Precice](precice-1/tastatura/precice.md)
+* [Precice](precice-1/tastatura/README.md)
   * [Cesto koriscene komande](precice-1/tastatura/cesto-koriscene-komande.md)
 
