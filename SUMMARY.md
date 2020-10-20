@@ -11,3 +11,7 @@
 
 * [Generalno o formulama](formule-1/generalno-o-formulama.md)
 
+## PowerQuery/ Get&Transform
+
+* [Untitled](powerquery-get-and-transform/untitled.md)
+
