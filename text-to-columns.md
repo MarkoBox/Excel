@@ -18,7 +18,7 @@ ALT+A+E
 
 Koristi se za: 
 
-* Razdvajanje podataka u celiji
+* Razdvajanje podataka u koloni 
 * Promenu tipa podatka
 
 ### Razdvajanje podataka
@@ -50,4 +50,12 @@ U ovom slucaju mozemo mu reci da podeli kolonu gde god dodamo liniju.
 Ovaj je isti nezavisno od prethodnog. U donjem prozorcicu vidimo kako nam izgledaju podaci. Selektuj kolonu po kolonu i izaberi gore Data format koji ces primeniti samo na tu kolonu. Default je General koji kao sto pise koristi Excelovu logiku za prepoznavanje sta se nalazi u koloni. 
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Pobrini se da nema podataka u kolonama pored. U ovom slucaju ja delim jednu na dve kolone, i ako postoji ista u koloni pored on ce te upozoriti na to. Ukoliko nastavis te podatke ce jednostavno pregaziti. 
+{% endhint %}
+
+### Promena tipa podatka
+
+
 
