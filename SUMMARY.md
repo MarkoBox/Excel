@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Prva strana](README.md)
+* [Neke korisne stvari o excelu](neke-korisne-stvari-o-excelu.md)
 
 ## Tastatura <a id="precice-1"></a>
 
@@ -11,6 +12,8 @@
 
 * [Generalno o formulama](formule-1/generalno-o-formulama/README.md)
   * [Cesce koriscene](formule-1/generalno-o-formulama/cesce-koriscene.md)
+  * [Otklanjanje gresaka](formule-1/generalno-o-formulama/otklanjanje-gresaka.md)
+  * [XLOOKUP](formule-1/generalno-o-formulama/xlookup.md)
 * [Name manager](formule-1/name-manager.md)
 
 ---

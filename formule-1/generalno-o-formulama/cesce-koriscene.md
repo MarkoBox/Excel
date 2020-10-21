@@ -22,7 +22,7 @@
 
 =DAYS\(\)
 
-=SUBTOTAL\(\)
+=SUBTOTAL\(\) - sumiranje isfiltriranih vrednosti
 
 
 
