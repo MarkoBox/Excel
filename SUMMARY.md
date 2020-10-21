@@ -9,7 +9,9 @@
 
 ## Formule <a id="formule-1"></a>
 
-* [Generalno o formulama](formule-1/generalno-o-formulama.md)
+* [Generalno o formulama](formule-1/generalno-o-formulama/README.md)
+  * [Cesce koriscene](formule-1/generalno-o-formulama/cesce-koriscene.md)
+* [Name manager](formule-1/name-manager.md)
 
 ---
 
@@ -22,4 +24,5 @@
 ## Programiranje
 
 * [VBA](programiranje/vba.md)
+* [Javascript](programiranje/javascript.md)
 
