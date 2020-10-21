@@ -17,5 +17,9 @@
 
 ## PowerQuery/ Get&Transform
 
-* [Untitled](powerquery-get-and-transform/untitled.md)
+* [Power Query](powerquery-get-and-transform/untitled.md)
+
+## Programiranje
+
+* [VBA](programiranje/vba.md)
 
