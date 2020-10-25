@@ -57,5 +57,7 @@ Pobrini se da nema podataka u kolonama pored. U ovom slucaju ja delim jednu na d
 
 ### Promena tipa podatka
 
+TODO: Napravi ovde gif za ovo
+
 
 

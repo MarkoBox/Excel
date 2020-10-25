@@ -19,6 +19,7 @@
 ---
 
 * [Text to columns](text-to-columns.md)
+* [Pivot](pivot.md)
 
 ## PowerQuery/ Get&Transform
 
