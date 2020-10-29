@@ -29,4 +29,5 @@
 
 * [VBA](programiranje/vba.md)
 * [Javascript](programiranje/javascript.md)
+* [C\# VSTO](programiranje/c-vsto.md)
 
