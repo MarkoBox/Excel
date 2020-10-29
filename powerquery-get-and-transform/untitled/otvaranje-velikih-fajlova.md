@@ -1,0 +1,2 @@
+# Otvaranje velikih fajlova
+

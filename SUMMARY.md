@@ -23,11 +23,15 @@
 
 ## PowerQuery/ Get&Transform
 
-* [Power Query](powerquery-get-and-transform/untitled.md)
+* [Power Query](powerquery-get-and-transform/untitled/README.md)
+  * [Otvaranje velikih fajlova](powerquery-get-and-transform/untitled/otvaranje-velikih-fajlova.md)
+  * [Spisak fajlova](powerquery-get-and-transform/untitled/spisak-fajlova.md)
 
 ## Programiranje
 
 * [VBA](programiranje/vba.md)
 * [Javascript](programiranje/javascript.md)
 * [C\# VSTO](programiranje/c-vsto.md)
+* [Python](programiranje/python.md)
+* [R](programiranje/r.md)
 
